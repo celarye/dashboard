@@ -1,2 +1,4 @@
+allowBuilds:
+  vue-demi: true
 overrides:
   'typescript': 'npm:typescript-native-bridge@latest'
